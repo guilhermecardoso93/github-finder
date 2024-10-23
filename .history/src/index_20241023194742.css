@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  color: #f2f2f2;
+}
+
+body {
+  background-color: #0e1129;
+  padding: 2rem;
+}
