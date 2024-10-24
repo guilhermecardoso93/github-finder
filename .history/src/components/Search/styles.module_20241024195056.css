@@ -1,0 +1,32 @@
+.container {
+  background-color: #2b3566;
+  padding: 2rem;
+  border-radius: 1rem;
+  gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.container p {
+  color: #9da5d1;
+}
+
+.search_input {
+  display: flex;
+  gap: .5rem;
+}
+
+.search_input input,
+.search_input button {
+  padding: .6rem;
+  border-radius: 3px;
+  border: none;
+  color: #2b3566;
+}
+
+.search_input button {
+  background-color: #0e1919;
+}

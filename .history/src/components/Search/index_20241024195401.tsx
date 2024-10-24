@@ -1,4 +1,4 @@
-import { KeyboardEvent, useState } from "react";
+import { useState } from "react";
 import { BsSearch } from "react-icons/bs";
 
 import classes from "./styles.module.css";
